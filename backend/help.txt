@@ -1,0 +1,10 @@
+Create a SpringBoot application using start.spring.io
+- Maven
+- Dependencies:
+	+ Spring Web
+	+ Spring Data JPA
+	+ MySQL Driver / PostgreSQL Driver
+
+Create the database in MySQL
+
+Configure application.properties so it has the correct database name
