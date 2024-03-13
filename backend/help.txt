@@ -3,7 +3,7 @@ Create a SpringBoot application using start.spring.io
 - Dependencies:
 	+ Spring Web
 	+ Spring Data JPA
-	+ MySQL Driver / PostgreSQL Driver
+	+ MySQL Driver
 
 Create the database in MySQL
 
